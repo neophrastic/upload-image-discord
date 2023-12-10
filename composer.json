@@ -1,0 +1,6 @@
+{
+    "name": "pantera/upload-image-discord",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
